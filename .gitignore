@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Generated packet capture files
+*.pcap
+
 # C extensions
 *.so
 
